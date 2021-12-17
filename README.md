@@ -8,3 +8,4 @@ a simple application that searches songs by artist name
 
 - this project was made with the objective of training javascript programming concepts
 
+![alt text](https://github.com/i-Lucas/Search-Music/blob/main/img/1.png)
